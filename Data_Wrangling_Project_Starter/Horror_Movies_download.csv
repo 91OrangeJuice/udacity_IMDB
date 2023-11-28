@@ -1,0 +1,837 @@
+name,year,genre,rating,director,votes
+Alien,1979,Horror/Sci-Fi,8.5,Ridley Scott,905275
+Psycho,1960,Horror/Mystery/Thriller,8.5,Alfred Hitchcock,689068
+The Shining,1980,Drama/Horror,8.4,Stanley Kubrick,1051582
+The Thing,1982,Horror/Mystery/Sci-Fi,8.2,John Carpenter,439793
+Tumbbad,2018,Drama/Fantasy/Horror,8.2,Rahi Anil Barve,"53,297"
+The Exorcist,1973,Horror,8.1,William Friedkin,422330
+Diabolique,1955,Crime/Drama/Horror,8.1,Henri-Georges Clouzot,"67,456"
+Rosemary's Baby,1968,Drama/Horror,8,Roman Polanski,223968
+What Ever Happened to Baby Jane?,1962,Drama/Horror/Thriller,8,Robert Aldrich,"58,904"
+The Cabinet of Dr. Caligari,1920,Horror/Mystery/Thriller,8,Robert Wiene,"66,749"
+The Blue Elephant,2014,Drama/Horror/Mystery,8,Marwan Hamed,"29,151"
+Shaun of the Dead,2004,Comedy/Horror,7.9,Edgar Wright,572237
+Nosferatu,1922,Fantasy/Horror,7.9,F.W. Murnau,100942
+Let the Right One In,2008,Drama/Fantasy/Horror,7.9,Tomas Alfredson,221604
+King Kong,1933,Adventure/Horror/Sci-Fi,7.9,Merian C. Cooper,"88,019"
+Get Out I,2017,Horror/Mystery/Thriller,7.8,Jordan Peele,642604
+Predator,1987,Action/Adventure/Horror,7.8,John McTiernan,435400
+I Saw the Devil,2010,Action/Crime/Horror,7.8,Jee-woon Kim,137559
+Dawn of the Dead,1978,Horror/Thriller,7.8,George A. Romero,124374
+Night of the Living Dead,1968,Horror/Thriller,7.8,George A. Romero,133452
+Freaks,1932,Drama/Horror,7.8,Tod Browning,"48,381"
+Frankenstein,1931,Drama/Horror/Sci-Fi,7.8,James Whale,"75,779"
+The Innocents,1961,Horror,7.8,Jack Clayton,"31,689"
+The Bride of Frankenstein,1935,Drama/Horror/Sci-Fi,7.8,James Whale,"50,611"
+Evil Dead II,1987,Comedy/Horror,7.7,Sam Raimi,173914
+Halloween,1978,Horror/Thriller,7.7,John Carpenter,289224
+Invasion of the Body Snatchers,1956,Drama/Horror/Sci-Fi,7.7,Don Siegel,"52,292"
+American Psycho,2000,Crime/Drama/Horror,7.6,Mary Harron,658696
+Saw,2004,Horror/Mystery/Thriller,7.6,James Wan,436144
+Train to Busan,2016,Action/Horror/Thriller,7.6,Sang-ho Yeon,235577
+The Fly,1986,Drama/Horror/Sci-Fi,7.6,David Cronenberg,191571
+Zombieland,2009,Action/Comedy/Horror,7.6,Ruben Fleischer,596433
+The Birds,1963,Drama/Horror/Mystery,7.6,Alfred Hitchcock,196469
+The Skin I Live In,2011,Drama/Horror/Mystery,7.6,Pedro Almod¨®var,158708
+The Others,2001,Horror/Mystery/Thriller,7.6,Alejandro Amen¨¢bar,377287
+What We Do in the Shadows,2014,Comedy/Horror,7.6,Jemaine Clement,190548
+Eyes Without a Face,1960,Drama/Horror,7.6,Georges Franju,"33,321"
+Vampire Hunter D: Bloodlust,2000,Animation/Action/Drama,7.6,Jack Fletcher,"33,553"
+Repulsion,1965,Drama/Horror/Thriller,7.6,Roman Polanski,"55,043"
+One Cut of the Dead,2017,Comedy/Drama/Horror,7.6,Shin'ichir? Ueda,"27,004"
+The Invisible Man,1933,Horror/Sci-Fi,7.6,James Whale,"37,549"
+Peeping Tom,1960,Drama/Horror/Thriller,7.6,Michael Powell,"37,256"
+The Conjuring,2013,Horror/Mystery/Thriller,7.5,James Wan,526164
+A Quiet Place,2018,Drama/Horror/Sci-Fi,7.5,John Krasinski,551233
+28 Days Later,2002,Drama/Horror/Sci-Fi,7.5,Danny Boyle,425705
+Interview with the Vampire: The Vampire Chronicles,1994,Drama/Fantasy/Horror,7.5,Neil Jordan,333084
+The Crow,1994,Action/Crime/Drama,7.5,Alex Proyas,190666
+An American Werewolf in London,1981,Comedy/Horror,7.5,John Landis,113179
+Tucker and Dale vs Evil,2010,Comedy/Horror,7.5,Eli Craig,186643
+The Wicker Man,1973,Horror/Mystery/Thriller,7.5,Robin Hardy,"85,380"
+The Omen,1976,Horror/Mystery,7.5,Richard Donner,124612
+Grindhouse,2007,Action/Horror/Thriller,7.5,Robert Rodriguez,187623
+Braindead,1992,Comedy/Fantasy/Horror,7.5,Peter Jackson,100216
+Godzilla,1954,Horror/Sci-Fi,7.5,Ishir? Honda,"35,705"
+Deep Red,1975,Horror/Mystery/Thriller,7.5,Dario Argento,"40,206"
+Stree,2018,Comedy/Horror,7.5,Amar Kaushik,"36,079"
+The Evil Dead,1981,Horror,7.4,Sam Raimi,222282
+Scream,1996,Horror/Mystery,7.4,Wes Craven,365136
+Bram Stoker's Dracula,1992,Drama/Fantasy/Horror,7.4,Francis Ford Coppola,226027
+Army of Darkness,1992,Comedy/Horror,7.4,Sam Raimi,186854
+The Rocky Horror Picture Show,1975,Comedy/Horror/Musical,7.4,Jim Sharman,158254
+A Nightmare on Elm Street,1984,Horror,7.4,Wes Craven,248750
+The Texas Chain Saw Massacre,1974,Horror,7.4,Tobe Hooper,170855
+Carrie,1976,Horror/Mystery,7.4,Brian De Palma,195170
+The Wailing,2016,Drama/Horror/Mystery,7.4,Na Hong-jin,"73,981"
+Jacob's Ladder I,1990,Drama/Horror/Mystery,7.4,Adrian Lyne,113045
+Invasion of the Body Snatchers,1978,Horror/Sci-Fi,7.4,Philip Kaufman,"64,115"
+REC,2007,Horror/Mystery/Thriller,7.4,Jaume Balaguer¨®,187741
+The Orphanage,2007,Drama/Horror/Mystery,7.4,J.A. Bayona,159601
+Nosferatu the Vampyre,1979,Drama/Horror,7.4,Werner Herzog,"38,215"
+Dracula,1931,Drama/Fantasy/Horror,7.4,Tod Browning,"55,288"
+The Devil's Backbone,2001,Drama/Horror/Thriller,7.4,Guillermo del Toro,"68,728"
+The Haunting,1963,Horror,7.4,Robert Wise,"40,711"
+Thesis,1996,Crime/Horror/Mystery,7.4,Alejandro Amen¨¢bar,"40,595"
+Bhool Bhulaiyaa,2007,Comedy/Horror/Mystery,7.4,Priyadarshan,"30,282"
+Hereditary,2018,Drama/Horror/Mystery,7.3,Ari Aster,343335
+It I,2017,Horror,7.3,Andy Muschietti,571035
+Split IX,2016,Horror/Thriller,7.3,M. Night Shyamalan,519308
+Doctor Sleep,2019,Drama/Fantasy/Horror,7.3,Mike Flanagan,202482
+Dawn of the Dead,2004,Action/Horror,7.3,Zack Snyder,263099
+Possession,1981,Drama/Horror,7.3,Andrzej Zulawski,"36,874"
+Poltergeist,1982,Horror/Thriller,7.3,Tobe Hooper,170924
+Sweeney Todd: The Demon Barber of Fleet Street,2007,Drama/Horror/Musical,7.3,Tim Burton,376557
+Gremlins,1984,Comedy/Fantasy/Horror,7.3,Joe Dante,234614
+The Conjuring 2,2016,Horror/Mystery/Thriller,7.3,James Wan,282543
+Sleepy Hollow,1999,Fantasy/Horror/Mystery,7.3,Tim Burton,370303
+Take Shelter,2011,Drama/Horror/Sci-Fi,7.3,Jeff Nichols,103846
+Eraserhead,1977,Fantasy/Horror,7.3,David Lynch,121484
+Suspiria,1977,Horror,7.3,Dario Argento,"98,751"
+The Return of the Living Dead,1985,Comedy/Horror/Sci-Fi,7.3,Dan O'Bannon,"64,592"
+Twin Peaks: Fire Walk with Me,1992,Drama/Horror/Mystery,7.3,David Lynch,100656
+House,1977,Comedy/Horror,7.3,Nobuhiko ?bayashi,"30,498"
+Pi,1998,Drama/Horror/Mystery,7.3,Darren Aronofsky,182946
+The Hidden Face,2011,Drama/Horror/Mystery,7.3,Andr¨¦s Baiz,"44,415"
+Bacurau,2019,Action/Adventure/Drama,7.3,Juliano Dornelles,"29,082"
+The Menu,2022,Comedy/Horror/Thriller,7.2,Mark Mylod,323131
+From Dusk Till Dawn,1996,Action/Crime/Horror,7.2,Robert Rodriguez,326069
+The Lost Boys,1987,Comedy/Horror,7.2,Joel Schumacher,150478
+A Quiet Place Part II,2020,Drama/Horror/Sci-Fi,7.2,John Krasinski,248967
+The Descent,2005,Adventure/Horror/Thriller,7.2,Neil Marshall,233687
+They Live,1988,Action/Horror/Sci-Fi,7.2,John Carpenter,136510
+I Am Legend,2007,Action/Drama/Horror,7.2,Francis Lawrence,781259
+10 Cloverfield Lane,2016,Drama/Horror/Mystery,7.2,Dan Trachtenberg,340537
+Dead Ringers,1988,Drama/Horror/Thriller,7.2,David Cronenberg,"50,992"
+Angel Heart,1987,Horror/Mystery/Thriller,7.2,Alan Parker,"91,791"
+An American Crime,2007,Biography/Crime/Drama,7.2,Tommy O'Haver,"35,826"
+Videodrome,1983,Horror/Sci-Fi/Thriller,7.2,David Cronenberg,"97,693"
+Re-Animator,1985,Comedy/Horror/Sci-Fi,7.2,Stuart Gordon,"68,040"
+Only Lovers Left Alive,2013,Comedy/Drama/Fantasy,7.2,Jim Jarmusch,104159
+The Changeling,1980,Horror/Mystery,7.2,Peter Medak,"37,163"
+Ringu,1998,Horror/Mystery,7.2,Hideo Nakata,"73,508"
+The Dead Zone,1983,Drama/Horror/Sci-Fi,7.2,David Cronenberg,"73,727"
+Sleep Tight,2011,Crime/Drama/Horror,7.2,Jaume Balaguer¨®,"44,718"
+Horror of Dracula,1958,Drama/Horror,7.2,Terence Fisher,"26,472"
+The Wolf Man,1941,Horror/Mystery/Romance,7.2,George Waggner,"28,724"
+Midsommar,2019,Drama/Horror/Mystery,7.1,Ari Aster,354167
+The Ring,2002,Horror/Mystery,7.1,Gore Verbinski,360824
+Prey I,2022,Action/Adventure/Drama,7.1,Dan Trachtenberg,207940
+The Mist,2007,Horror/Sci-Fi/Thriller,7.1,Frank Darabont,323435
+Don't Breathe,2016,Crime/Horror/Thriller,7.1,Fede Alvarez,286498
+Little Shop of Horrors,1986,Comedy/Horror/Musical,7.1,Frank Oz,"80,770"
+Blade,1998,Action/Horror/Sci-Fi,7.1,Stephen Norrington,285069
+Bone Tomahawk,2015,Drama/Horror/Western,7.1,S. Craig Zahler,107954
+The Invisible Man I,2020,Drama/Horror/Mystery,7.1,Leigh Whannell,238588
+Tremors,1990,Comedy/Horror,7.1,Ron Underwood,143452
+Planet Terror,2007,Action/Comedy/Horror,7.1,Robert Rodriguez,217087
+The Call,2020,Crime/Horror/Mystery,7.1,Chung-Hyun Lee,"37,886"
+Don't Look Now,1973,Drama/Horror/Mystery,7.1,Nicolas Roeg,"58,877"
+Let Me In I,2010,Drama/Fantasy/Horror,7.1,Matt Reeves,124539
+Cube,1997,Drama/Horror/Mystery,7.1,Vincenzo Natali,239015
+The Frighteners,1996,Comedy/Fantasy/Horror,7.1,Peter Jackson,"91,980"
+Audition,1999,Drama/Horror/Mystery,7.1,Takashi Miike,"84,967"
+In the Mouth of Madness,1994,Drama/Fantasy/Horror,7.1,John Carpenter,"74,185"
+The Host,2006,Drama/Horror/Sci-Fi,7.1,Bong Joon Ho,127160
+The Thing from Another World,1951,Horror/Sci-Fi,7.1,Christian Nyby,"31,634"
+Day of the Dead,1985,Horror/Thriller,7.1,George A. Romero,"71,624"
+Timecrimes,2007,Horror/Mystery/Sci-Fi,7.1,Nacho Vigalondo,"66,167"
+Black Christmas,1974,Horror/Mystery/Thriller,7.1,Bob Clark,"44,485"
+A Tale of Two Sisters,2003,Drama/Horror/Mystery,7.1,Jee-woon Kim,"65,125"
+Thirst,2009,Drama/Fantasy/Horror,7.1,Park Chan-wook,"49,291"
+The Fearless Vampire Killers,1967,Comedy/Horror,7.1,Roman Polanski,"32,778"
+Pearl,2022,Drama/Horror/Thriller,7,Ti West,"60,574"
+Barbarian,2022,Horror/Mystery/Thriller,7,Zach Cregger,150220
+Orphan,2009,Horror/Mystery/Thriller,7,Jaume Collet-Serra,240096
+Last Night in Soho,2021,Drama/Horror/Mystery,7,Edgar Wright,151594
+The Platform,2019,Horror/Sci-Fi/Thriller,7,Galder Gaztelu-Urrutia,246812
+Cloverfield,2008,Action/Adventure/Horror,7,Matt Reeves,409328
+The Cabin in the Woods,2011,Horror/Mystery/Thriller,7,Drew Goddard,431746
+Martyrs,2008,Horror,7,Pascal Laugier,100077
+The Killing of a Sacred Deer,2017,Drama/Horror/Mystery,7,Yorgos Lanthimos,164977
+World War Z,2013,Action/Adventure/Horror,7,Marc Forster,688746
+Constantine,2005,Action/Fantasy/Horror,7,Francis Lawrence,359071
+Pitch Black,2000,Action/Horror/Sci-Fi,7,David Twohy,247313
+Hotel Transylvania,2012,Animation/Adventure/Comedy,7,Genndy Tartakovsky,266508
+Hellboy II: The Golden Army,2008,Action/Adventure/Fantasy,7,Guillermo del Toro,278818
+Green Room,2015,Crime/Drama/Horror,7,Jeremy Saulnier,131693
+Fright Night,1985,Fantasy/Horror,7,Tom Holland,"74,547"
+Raw,2016,Drama/Horror,7,Julia Ducournau,"83,304"
+Brotherhood of the Wolf,2001,Action/Adventure/Drama,7,Christophe Gans,"68,793"
+Shutter II,2004,Horror/Mystery/Thriller,7,Banjong Pisanthanakun,"47,015"
+Thelma,2017,Drama/Fantasy/Horror,7,Joachim Trier,"34,644"
+Henry: Portrait of a Serial Killer,1986,Biography/Crime/Drama,7,John McNaughton,"38,529"
+Tenebrae,1982,Drama/Horror/Mystery,7,Dario Argento,"25,691"
+Carnival of Souls,1962,Horror/Mystery,7,Herk Harvey,"26,143"
+The Mummy,1932,Fantasy/Horror,7,Karl Freund,"28,354"
+Doctor Strange in the Multiverse of Madness,2022,Action/Adventure/Fantasy,6.9,Sam Raimi,440936
+The Black Phone,2021,Horror/Thriller,6.9,Scott Derrickson,168369
+The VVitch: A New-England Folktale,2015,Drama/Fantasy/Horror,6.9,Robert Eggers,277751
+Climax I,2018,Drama/Horror/Music,6.9,Gaspar No¨¦,"73,695"
+28 Weeks Later,2007,Action/Adventure/Horror,6.9,Juan Carlos Fresnadillo,284000
+Hocus Pocus,1993,Comedy/Family/Fantasy,6.9,Kenny Ortega,145947
+Hellraiser,1987,Horror/Thriller,6.9,Clive Barker,132887
+Near Dark,1987,Horror,6.9,Kathryn Bigelow,"42,670"
+Ravenous,1999,Adventure/Drama/Horror,6.9,Antonia Bird,"41,616"
+Altered States,1980,Horror/Sci-Fi/Thriller,6.9,Ken Russell,"36,892"
+Stir of Echoes,1999,Horror/Mystery/Thriller,6.9,David Koepp,"84,251"
+Bubba Ho-Tep,2002,Comedy/Fantasy/Horror,6.9,Don Coscarelli,"50,182"
+A Girl Walks Home Alone at Night,2014,Drama/Horror/Romance,6.9,Ana Lily Amirpour,"37,115"
+The Monster Squad,1987,Action/Comedy/Fantasy,6.9,Fred Dekker,"33,711"
+Creature from the Black Lagoon,1954,Horror/Sci-Fi,6.9,Jack Arnold,"32,344"
+Troll Hunter,2010,Drama/Fantasy/Horror,6.9,Andr¨¦ ?vredal,"77,389"
+Shadow of the Vampire,2000,Drama/Horror,6.9,E. Elias Merhige,"43,072"
+Frankenweenie,2012,Animation/Comedy/Drama,6.9,Tim Burton,112066
+Bhoot Police,2021,Comedy/Horror,6.9,Pavan Kirpalani,"26,993"
+Nope,2022,Horror/Mystery/Sci-Fi,6.8,Jordan Peele,232097
+Bones and All,2022,Drama/Horror/Romance,6.8,Luca Guadagnino,"43,064"
+Ready or Not I,2019,Action/Comedy/Horror,6.8,Matt Bettinelli-Olpin,164600
+Insidious I,2010,Horror/Mystery/Thriller,6.8,James Wan,319707
+It Follows,2014,Horror/Mystery/Thriller,6.8,David Robert Mitchell,253503
+Annihilation I,2018,Adventure/Drama/Horror,6.8,Alex Garland,340306
+Sinister,2012,Horror/Mystery/Thriller,6.8,Scott Derrickson,264038
+Us II,2019,Horror/Mystery/Thriller,6.8,Jordan Peele,316383
+The House That Jack Built,2018,Crime/Drama/Horror,6.8,Lars von Trier,"83,053"
+The Babadook,2014,Horror/Mystery,6.8,Jennifer Kent,234393
+The Autopsy of Jane Doe,2016,Horror/Mystery/Thriller,6.8,Andr¨¦ ?vredal,127065
+Warm Bodies,2013,Comedy/Horror/Romance,6.8,Jonathan Levine,236475
+Hellboy,2004,Action/Adventure/Fantasy,6.8,Guillermo del Toro,338908
+Odd Thomas,2013,Comedy/Fantasy/Horror,6.8,Stephen Sommers,"55,393"
+Exam,2009,Crime/Horror/Mystery,6.8,Stuart Hazeldine,120312
+1408,2007,Fantasy/Horror/Mystery,6.8,Mikael H?fstr?m,282365
+The Fog,1980,Horror/Thriller,6.8,John Carpenter,"78,302"
+Creepshow,1982,Comedy/Fantasy/Horror,6.8,George A. Romero,"50,496"
+Ginger Snaps,2000,Drama/Fantasy/Horror,6.8,John Fawcett,"49,563"
+The Witches,1990,Adventure/Comedy/Family,6.8,Nicolas Roeg,"52,433"
+eXistenZ,1999,Horror/Mystery/Sci-Fi,6.8,David Cronenberg,103653
+Dog Soldiers,2002,Action/Horror/Thriller,6.8,Neil Marshall,"62,964"
+Dead Calm,1989,Horror/Thriller,6.8,Phillip Noyce,"42,222"
+Shin Godzilla,2016,Action/Drama/Horror,6.8,Hideaki Anno,"29,845"
+Zombie,1979,Horror,6.8,Lucio Fulci,"29,370"
+The Brood,1979,Horror/Sci-Fi,6.8,David Cronenberg,"32,397"
+Night of the Living Dead,1990,Horror,6.8,Tom Savini,"43,906"
+House on Haunted Hill,1959,Crime/Horror/Mystery,6.8,William Castle,"29,039"
+Stonehearst Asylum,2014,Drama/Horror/Mystery,6.8,Brad Anderson,"58,532"
+Under the Shadow,2016,Drama/Fantasy/Horror,6.8,Babak Anvari,"28,891"
+Dead Snow 2: Red vs. Dead,2014,Action/Comedy/Fantasy,6.8,Tommy Wirkola,"25,807"
+Evil Dead Rise,2023,Horror,6.7,Lee Cronin,"78,836"
+Suspiria I,2018,Drama/Fantasy/Horror,6.7,Luca Guadagnino,"84,786"
+Eden Lake,2008,Horror/Thriller,6.7,James Watkins,"89,408"
+Final Destination,2000,Horror/Thriller,6.7,James Wong,266158
+Fresh,2022,Horror/Thriller,6.7,Mimi Cave,"63,592"
+Zombieland: Double Tap,2019,Action/Comedy/Horror,6.7,Ruben Fleischer,189496
+The Devil's Rejects,2005,Crime/Horror/Western,6.7,Rob Zombie,103048
+Pandorum,2009,Action/Horror/Mystery,6.7,Christian Alvart,155042
+Christine,1983,Horror/Thriller,6.7,John Carpenter,"87,453"
+Marrowbone,2017,Adventure/Drama/Horror,6.7,Sergio G. S¨¢nchez,"35,303"
+The Gift,2000,Drama/Fantasy/Horror,6.7,Sam Raimi,"72,059"
+Blade II,2002,Action/Horror/Sci-Fi,6.7,Guillermo del Toro,225970
+High Tension,2003,Horror,6.7,Alexandre Aja,"74,795"
+Candyman,1992,Horror/Thriller,6.7,Bernard Rose,"95,591"
+Return to Oz,1985,Adventure/Family/Fantasy,6.7,Walter Murch,"28,909"
+Saint Maud,2019,Drama/Horror/Mystery,6.7,Rose Glass,"41,913"
+From Hell,2001,Horror/Mystery/Thriller,6.7,Albert Hughes,159793
+Fear Street: Part Two - 1978,2021,Drama/Horror/Mystery,6.7,Leigh Janiak,"69,358"
+Scanners,1981,Horror/Sci-Fi/Thriller,6.7,David Cronenberg,"58,736"
+The Exorcism of Emily Rose,2005,Drama/Horror/Thriller,6.7,Scott Derrickson,134571
+Summer of 84,2018,Drama/Horror/Mystery,6.7,Fran?ois Simard,"43,321"
+Inside,2007,Horror,6.7,Alexandre Bustillo,"42,811"
+Trick 'r Treat,2007,Comedy/Horror,6.7,Michael Dougherty,"97,225"
+Phenomena,1985,Crime/Horror/Mystery,6.7,Dario Argento,"28,456"
+Where the Wild Things Are,2009,Adventure/Drama/Family,6.7,Spike Jonze,106812
+Goodnight Mommy,2014,Horror/Mystery/Thriller,6.7,Severin Fiala,"57,113"
+Spring I,2014,Horror/Romance/Sci-Fi,6.7,Justin Benson,"29,941"
+Tales from the Crypt: Demon Knight,1995,Action/Fantasy/Horror,6.7,Ernest R. Dickerson,"25,144"
+Ju-on: The Grudge,2002,Horror,6.7,Takashi Shimizu,"46,324"
+Turbo Kid,2015,Action/Adventure/Comedy,6.7,Fran?ois Simard,"28,926"
+Cronos,1992,Drama/Fantasy/Horror,6.7,Guillermo del Toro,"31,873"
+Housebound,2014,Comedy/Horror/Mystery,6.7,Gerard Johnstone,"36,448"
+Dark Water,2002,Drama/Horror/Mystery,6.7,Hideo Nakata,"33,695"
+Los ojos de Julia,2010,Horror/Mystery/Thriller,6.7,Guillem Morales,"36,473"
+Fido,2006,Comedy/Drama/Horror,6.7,Andrew Currie,"29,699"
+X II,2022,Horror/Mystery/Thriller,6.6,Ti West,132694
+Scream VI,2023,Horror/Mystery/Thriller,6.6,Matt Bettinelli-Olpin,"81,797"
+The Pale Blue Eye,2022,Crime/Horror/Mystery,6.6,Scott Cooper,107713
+Bird Box,2018,Horror/Mystery/Sci-Fi,6.6,Susanne Bier,360116
+Mother!,2017,Drama/Horror/Mystery,6.6,Darren Aronofsky,236605
+Event Horizon,1997,Horror/Sci-Fi/Thriller,6.6,Paul W.S. Anderson,188518
+Speak No Evil,2022,Drama/Horror/Thriller,6.6,Christian Tafdrup,"27,616"
+Life I,2017,Horror/Sci-Fi/Thriller,6.6,Daniel Espinosa,240377
+Resident Evil,2002,Action/Horror/Sci-Fi,6.6,Paul W.S. Anderson,279094
+You're Next,2011,Horror/Thriller,6.6,Adam Wingard,104174
+The Faculty,1998,Horror/Mystery/Sci-Fi,6.6,Robert Rodriguez,128887
+Glass,2019,Drama/Horror/Sci-Fi,6.6,M. Night Shyamalan,254065
+Drag Me to Hell,2009,Horror,6.6,Sam Raimi,210357
+30 Days of Night,2007,Action/Adventure/Horror,6.6,David Slade,182693
+What Lies Beneath,2000,Drama/Horror/Mystery,6.6,Robert Zemeckis,130856
+Death Becomes Her,1992,Comedy/Fantasy/Horror,6.6,Robert Zemeckis,124437
+Child's Play,1988,Horror/Thriller,6.6,Tom Holland,108877
+The Invitation I,2015,Drama/Horror/Mystery,6.6,Karyn Kusama,114221
+Happy Death Day,2017,Comedy/Horror/Mystery,6.6,Christopher Landon,151732
+Overlord,2018,Action/Horror/Sci-Fi,6.6,Julius Avery,102874
+Hush I,2016,Horror/Thriller,6.6,Mike Flanagan,144505
+Prince of Darkness,1987,Horror,6.6,John Carpenter,"47,009"
+Saw II,2005,Horror/Mystery,6.6,Darren Lynn Bousman,260764
+From Beyond,1986,Horror/Sci-Fi,6.6,Stuart Gordon,"28,213"
+A Nightmare on Elm Street 3: Dream Warriors,1987,Fantasy/Horror,6.6,Chuck Russell,"85,536"
+Hotel Transylvania 2,2015,Animation/Adventure/Comedy,6.6,Genndy Tartakovsky,134482
+The Hunger,1983,Drama/Horror,6.6,Tony Scott,"27,761"
+The Blob,1988,Horror/Sci-Fi/Thriller,6.6,Chuck Russell,"40,349"
+The Loved Ones,2009,Crime/Horror,6.6,Sean Byrne,"42,492"
+Psycho II,1983,Crime/Horror/Mystery,6.6,Richard Franklin,"28,989"
+May,2002,Comedy/Drama/Horror,6.6,Lucky McKee,"38,779"
+Phantasm,1979,Horror/Sci-Fi,6.6,Don Coscarelli,"39,050"
+Rare Exports,2010,Adventure/Fantasy/Horror,6.6,Jalmari Helander,"30,491"
+The Girl with All the Gifts,2016,Action/Adventure/Drama,6.6,Colm McCarthy,"62,316"
+Fear Street: Part Three - 1666,2021,Horror/Mystery,6.6,Leigh Janiak,"57,741"
+Demons,1985,Horror,6.6,Lamberto Bava,"25,101"
+The Eye,2002,Fantasy/Horror/Mystery,6.6,Danny Pang,"29,645"
+Smile V,2022,Horror/Mystery/Thriller,6.5,Parker Finn,130696
+Evil Dead,2013,Horror,6.5,Fede Alvarez,187737
+It Chapter Two,2019,Drama/Fantasy/Horror,6.5,Andy Muschietti,281137
+Gerald's Game,2017,Drama/Horror/Thriller,6.5,Mike Flanagan,117039
+The Hunt II,2020,Action/Horror/Thriller,6.5,Craig Zobel,120400
+Silent Hill,2006,Horror/Mystery,6.5,Christophe Gans,236727
+Antichrist,2009,Drama/Horror/Thriller,6.5,Lars von Trier,131305
+Insidious: Chapter 2,2013,Horror/Mystery/Thriller,6.5,James Wan,177423
+The Last House on the Left,2009,Horror/Thriller,6.5,Dennis Iliadis,"96,680"
+The Night House,2020,Horror/Mystery/Thriller,6.5,David Bruckner,"60,235"
+Host II,2020,Horror/Mystery,6.5,Rob Savage,"34,122"
+Mandy I,2018,Action/Fantasy/Horror,6.5,Panos Cosmatos,"83,932"
+The Girl Next Door,2007,Crime/Drama/Horror,6.5,Gregory Wilson,"27,817"
+Titane,2021,Drama/Horror/Sci-Fi,6.5,Julia Ducournau,"50,494"
+Slither,2006,Comedy/Horror/Sci-Fi,6.5,James Gunn,"85,847"
+The Blair Witch Project,1999,Horror/Mystery,6.5,Daniel Myrick,271349
+The Endless I,2017,Drama/Fantasy/Horror,6.5,Justin Benson,"46,030"
+Oculus,2013,Horror/Mystery/Thriller,6.5,Mike Flanagan,133932
+The Howling,1981,Horror,6.5,Joe Dante,"38,157"
+Annabelle: Creation,2017,Horror/Mystery/Thriller,6.5,David F. Sandberg,141513
+Possessor,2020,Horror/Mystery/Sci-Fi,6.5,Brandon Cronenberg,"41,017"
+Crimson Peak,2015,Drama/Horror/Mystery,6.5,Guillermo del Toro,153040
+Halloween I,2018,Crime/Horror/Thriller,6.5,David Gordon Green,160731
+Pet Sematary,1989,Fantasy/Horror/Thriller,6.5,Mary Lambert,109162
+The Final Girls,2015,Comedy/Fantasy/Horror,6.5,Todd Strauss-Schulson,"48,852"
+Arachnophobia,1990,Comedy/Horror/Thriller,6.5,Frank Marshall,"72,630"
+The Crazies,2010,Horror/Thriller,6.5,Breck Eisner,125273
+His House,2020,Drama/Horror/Thriller,6.5,Remi Weekes,"45,081"
+The Skeleton Key,2005,Drama/Horror/Mystery,6.5,Iain Softley,118968
+Better Watch Out II,2016,Comedy/Horror/Thriller,6.5,Chris Peckover,"42,119"
+The Exorcist III,1990,Drama/Horror/Mystery,6.5,William Peter Blatty,"34,521"
+The Witches of Eastwick,1987,Comedy/Fantasy/Horror,6.5,George Miller,"73,547"
+Halloween II,1981,Horror,6.5,Rick Rosenthal,"96,004"
+Flatliners,1990,Drama/Horror/Sci-Fi,6.5,Joel Schumacher,"90,146"
+Dead End I,2003,Adventure/Horror/Mystery,6.5,Jean-Baptiste Andrea,"30,416"
+Byzantium,2012,Drama/Fantasy/Horror,6.5,Neil Jordan,"44,832"
+Time Lapse,2014,Horror/Mystery/Sci-Fi,6.5,Bradley King,"47,416"
+Bad Taste,1987,Comedy/Horror/Sci-Fi,6.5,Peter Jackson,"48,108"
+Pontypool,2008,Horror/Sci-Fi,6.5,Bruce McDonald,"33,734"
+[Rec]2,2009,Horror/Thriller,6.5,Jaume Balaguer¨®,"75,857"
+Sightseers,2012,Adventure/Comedy/Crime,6.5,Ben Wheatley,"29,544"
+Renfield,2023,Comedy/Fantasy/Horror,6.4,Chris McKay,"47,540"
+M3GAN,2022,Horror/Sci-Fi/Thriller,6.4,Gerard Johnstone,106598
+Alien: Covenant,2017,Horror/Sci-Fi/Thriller,6.4,Ridley Scott,290465
+Escape Room I,2019,Action/Adventure/Horror,6.4,Adam Robitel,131872
+Friday the 13th,1980,Horror/Mystery/Thriller,6.4,Sean S. Cunningham,146665
+The Craft,1996,Drama/Fantasy/Horror,6.4,Andrew Fleming,"99,986"
+The Hills Have Eyes,2006,Horror/Thriller,6.4,Alexandre Aja,177032
+Alien3,1992,Action/Horror/Sci-Fi,6.4,David Fincher,308197
+A Cure for Wellness,2016,Drama/Fantasy/Horror,6.4,Gore Verbinski,104306
+The Cell,2000,Crime/Horror/Sci-Fi,6.4,Tarsem Singh,105734
+Revenge II,2017,Action/Drama/Horror,6.4,Coralie Fargeat,"45,825"
+Fright Night,2011,Comedy/Horror,6.4,Craig Gillespie,109829
+Twilight Zone: The Movie,1983,Horror/Sci-Fi,6.4,Joe Dante,"39,519"
+Incident in a Ghostland,2018,Drama/Horror/Mystery,6.4,Pascal Laugier,"35,958"
+The Purge: Anarchy,2014,Action/Horror/Sci-Fi,6.4,James DeMonaco,156986
+Gremlins 2: The New Batch,1990,Comedy/Fantasy/Horror,6.4,Joe Dante,108188
+Black Death,2010,Action/Drama/History,6.4,Christopher Smith,"49,744"
+The People Under the Stairs,1991,Comedy/Horror/Mystery,6.4,Wes Craven,"37,305"
+Horns,2013,Comedy/Crime/Drama,6.4,Alexandre Aja,"85,762"
+The Serpent and the Rainbow,1988,Fantasy/Horror,6.4,Wes Craven,"26,707"
+Tale of Tales,2015,Drama/Fantasy/Horror,6.4,Matteo Garrone,"29,867"
+Daybreakers,2009,Action/Horror/Sci-Fi,6.4,Michael Spierig,131778
+The Woman in Black,2012,Drama/Fantasy/Horror,6.4,James Watkins,187998
+Silver Bullet,1985,Horror,6.4,Daniel Attias,"29,605"
+Sputnik,2020,Drama/Horror/Mystery,6.4,Egor Abramenko,"25,687"
+Kill List,2011,Action/Crime/Horror,6.4,Ben Wheatley,"42,875"
+New Nightmare,1994,Fantasy/Horror/Mystery,6.4,Wes Craven,"61,174"
+Repo! The Genetic Opera,2008,Horror/Musical/Sci-Fi,6.4,Darren Lynn Bousman,"25,810"
+The Mothman Prophecies,2002,Drama/Horror/Mystery,6.4,Mark Pellington,"82,494"
+Session 9,2001,Drama/Horror/Mystery,6.4,Brad Anderson,"60,761"
+Unsane,2018,Drama/Horror/Mystery,6.4,Steven Soderbergh,"48,245"
+Creep 2,2017,Crime/Drama/Horror,6.4,Patrick Brice,"29,300"
+Hellbound: Hellraiser II,1988,Horror/Thriller,6.4,Tony Randel,"53,253"
+The Awakening I,2011,Drama/Horror/Mystery,6.4,Nick Murphy,"67,806"
+Ghost Stories I,2017,Drama/Horror,6.4,Jeremy Dyson,"35,682"
+The Prophecy,1995,Action/Crime/Drama,6.4,Gregory Widen,"32,198"
+Severance,2006,Comedy/Horror,6.4,Christopher Smith,"39,807"
+Them,2006,Horror/Thriller,6.4,David Moreau,"31,377"
+Stake Land,2010,Drama/Horror/Sci-Fi,6.4,Jim Mickle,"43,421"
+Night Watch,2004,Action/Fantasy/Horror,6.4,Timur Bekmambetov,"54,703"
+Resident Evil: Degeneration,2008,Animation/Action/Horror,6.4,Makoto Kamiya,"32,199"
+Day Watch,2006,Action/Fantasy/Horror,6.4,Timur Bekmambetov,"34,927"
+Scream I,2022,Horror/Mystery/Thriller,6.3,Matt Bettinelli-Olpin,138199
+Under the Skin I,2013,Drama/Horror/Mystery,6.3,Jonathan Glazer,149804
+Watcher I,2022,Drama/Horror/Thriller,6.3,Chloe Okuno,"32,756"
+Scream 2,1997,Horror/Mystery,6.3,Wes Craven,197955
+The Babysitter I,2017,Comedy/Horror,6.3,McG,100574
+The Ritual I,2017,Horror/Mystery/Thriller,6.3,David Bruckner,108985
+Lights Out II,2016,Horror/Mystery,6.3,David F. Sandberg,135897
+The Conjuring: The Devil Made Me Do It,2021,Horror/Mystery/Thriller,6.3,Michael Chaves,125072
+Scouts Guide to the Zombie Apocalypse,2015,Action/Comedy/Horror,6.3,Christopher Landon,"52,616"
+Freaky,2020,Comedy/Horror/Thriller,6.3,Christopher Landon,"65,509"
+Lamb,2021,Drama/Fantasy/Horror,6.3,Valdimar J¨®hannsson,"32,600"
+The Shallows,2016,Action/Drama/Horror,6.3,Jaume Collet-Serra,138096
+Paranormal Activity,2007,Horror/Mystery,6.3,Oren Peli,247532
+Creep I,2014,Horror/Thriller,6.3,Patrick Brice,"60,918"
+Devil,2010,Horror/Mystery/Thriller,6.3,John Erick Dowdle,151728
+Goosebumps,2015,Adventure/Comedy/Fantasy,6.3,Rob Letterman,"91,906"
+Cargo I,2017,Drama/Horror/Sci-Fi,6.3,Ben Howling,"45,890"
+Predator 2,1990,Action/Horror/Sci-Fi,6.3,Stephen Hopkins,174998
+The Collector I,2009,Action/Horror/Thriller,6.3,Marcus Dunstan,"68,646"
+Haunt I,2019,Horror/Thriller,6.3,Scott Beck,"32,410"
+Hotel Transylvania 3: Summer Vacation,2018,Animation/Adventure/Comedy,6.3,Genndy Tartakovsky,"79,162"
+#Alive,2020,Action/Drama/Horror,6.3,Il Cho,"43,683"
+Apostle,2018,Drama/Fantasy/Horror,6.3,Gareth Evans,"55,806"
+The Hills Have Eyes,1977,Horror/Thriller,6.3,Wes Craven,"37,196"
+Lake Mungo,2008,Drama/Horror/Mystery,6.3,Joel Anderson,"25,556"
+Dark Skies,2013,Horror/Sci-Fi/Thriller,6.3,Scott Stewart,"77,749"
+The House of the Devil,2009,Horror/Mystery,6.3,Ti West,"49,019"
+Frankenstein,1994,Drama/Horror/Romance,6.3,Kenneth Branagh,"57,239"
+The Voices,2014,Comedy/Crime/Horror,6.3,Marjane Satrapi,"59,828"
+Berlin Syndrome,2017,Drama/Horror/Mystery,6.3,Cate Shortland,"26,480"
+The Uninvited,2009,Drama/Fantasy/Horror,6.3,Charles Guard,"82,545"
+Cat's Eye,1985,Comedy/Horror/Thriller,6.3,Lewis Teague,"26,850"
+Underworld: Awakening,2012,Action/Fantasy/Horror,6.3,M?ns M?rlind,157941
+The Vanishing,1993,Drama/Horror/Mystery,6.3,George Sluizer,"26,987"
+Mindhunters,2004,Crime/Horror/Thriller,6.3,Renny Harlin,"62,706"
+The Bar,2017,Horror/Thriller,6.3,¨¢lex de la Iglesia,"28,011"
+The Blob,1958,Horror/Sci-Fi,6.3,Irvin S. Yeaworth Jr.,"27,852"
+Screamers,1995,Horror/Sci-Fi/Thriller,6.3,Christian Duguay,"28,447"
+Dead Snow,2009,Comedy/Fantasy/Horror,6.3,Tommy Wirkola,"68,631"
+13 Sins,2014,Horror/Thriller,6.3,Daniel Stamm,"37,811"
+Tideland,2005,Drama/Fantasy/Horror,6.3,Terry Gilliam,"34,068"
+John Dies at the End,2012,Comedy/Fantasy/Horror,6.3,Don Coscarelli,"39,473"
+Bodies Bodies Bodies,2022,Comedy/Horror/Thriller,6.2,Halina Reijn,"51,654"
+Scream 4,2011,Comedy/Horror/Mystery,6.2,Wes Craven,162144
+Malignant I,2021,Crime/Horror/Mystery,6.2,James Wan,"98,740"
+The Empty Man,2020,Drama/Horror/Mystery,6.2,David Prior,"33,524"
+I Spit on Your Grave,2010,Horror/Thriller,6.2,Steven R. Monroe,"88,102"
+The Visit I,2015,Horror/Mystery/Thriller,6.2,M. Night Shyamalan,142097
+Jeepers Creepers,2001,Horror/Mystery,6.2,Victor Salva,135446
+The Thing I,2011,Horror/Mystery/Sci-Fi,6.2,Matthijs van Heijningen Jr.,139897
+Mama I,2013,Fantasy/Horror/Thriller,6.2,Andy Muschietti,186159
+"As Above, So Below",2014,Horror/Mystery/Thriller,6.2,John Erick Dowdle,101124
+Synchronic,2019,Drama/Horror/Mystery,6.2,Justin Benson,"35,972"
+Wolf Creek,2005,Horror/Thriller,6.2,Greg McLean,"75,604"
+Dark Shadows,2012,Comedy/Fantasy/Horror,6.2,Tim Burton,273371
+Alien: Resurrection,1997,Action/Horror/Sci-Fi,6.2,Jean-Pierre Jeunet,254632
+Sleepaway Camp,1983,Horror,6.2,Robert Hiltzik,"35,167"
+1922,2017,Crime/Drama/Horror,6.2,Zak Hilditch,"67,579"
+Dracula Untold,2014,Action/Drama/Fantasy,6.2,Gary Shore,201494
+Final Destination 2,2003,Horror/Thriller,6.2,David R. Ellis,174051
+The Texas Chainsaw Massacre,2003,Crime/Horror,6.2,Marcus Nispel,147172
+Fear Street: Part One - 1994,2021,Drama/Horror/Mystery,6.2,Leigh Janiak,"86,732"
+Scary Stories to Tell in the Dark,2019,Adventure/Horror/Mystery,6.2,Andr¨¦ ?vredal,"80,434"
+Color Out of Space,2019,Horror/Mystery/Sci-Fi,6.2,Richard Stanley,"52,020"
+Deliver Us from Evil I,2014,Action/Adventure/Crime,6.2,Scott Derrickson,"81,017"
+It Comes at Night,2017,Drama/Horror/Mystery,6.2,Trey Edward Shults,"98,054"
+Ver¨®nica I,2017,Horror,6.2,Paco Plaza,"44,074"
+Case 39,2009,Horror/Mystery/Thriller,6.2,Christian Alvart,"90,324"
+Ouija: Origin of Evil,2016,Drama/Horror/Mystery,6.2,Mike Flanagan,"68,575"
+The Toxic Avenger,1984,Action/Comedy/Horror,6.2,Michael Herz,"30,117"
+Killer Klowns from Outer Space,1988,Comedy/Horror/Sci-Fi,6.2,Stephen Chiodo,"41,538"
+Feast,2005,Action/Comedy/Horror,6.2,John Gulager,"32,911"
+Rogue,2007,Action/Drama/Horror,6.2,Greg McLean,"32,128"
+Resident Evil: Extinction,2007,Action/Horror/Sci-Fi,6.2,Russell Mulcahy,200494
+Idle Hands,1999,Comedy/Fantasy/Horror,6.2,Rodman Flender,"45,083"
+The Perfection,2018,Drama/Horror/Music,6.2,Richard Shepard,"46,777"
+Saw III,2006,Horror/Mystery/Thriller,6.2,Darren Lynn Bousman,199970
+American Mary,2012,Drama/Horror,6.2,Jen Soska,"26,866"
+Before I Wake,2016,Drama/Fantasy/Horror,6.2,Mike Flanagan,"49,193"
+Vacancy,2007,Horror/Thriller,6.2,Nimr¨®d Antal,104096
+Wolf,1994,Drama/Horror/Romance,6.2,Mike Nichols,"58,267"
+Land of the Dead,2005,Horror/Sci-Fi/Thriller,6.2,George A. Romero,"98,740"
+Frontier(s),2007,Horror,6.2,Xavier Gens,"27,825"
+Stigmata,1999,Horror/Mystery,6.2,Rupert Wainwright,"70,383"
+Happy Death Day 2U,2019,Comedy/Horror/Mystery,6.2,Christopher Landon,"79,669"
+Damien: Omen II,1978,Horror,6.2,Don Taylor,"33,729"
+Pumpkinhead,1988,Fantasy/Horror,6.2,Stan Winston,"25,833"
+Krampus I,2015,Comedy/Drama/Fantasy,6.2,Michael Dougherty,"79,013"
+Needful Things,1993,Crime/Drama/Fantasy,6.2,Fraser C. Heston,"26,291"
+Open Grave,2013,Horror/Mystery/Sci-Fi,6.2,Gonzalo L¨®pez-Gallego,"30,633"
+The Pope's Exorcist,2023,Horror/Thriller,6.1,Julius Avery,"39,847"
+Knock at the Cabin,2023,Horror/Mystery/Thriller,6.1,M. Night Shyamalan,"79,345"
+Terrifier 2,2022,Horror,6.1,Damien Leone,"36,262"
+Infinity Pool,2023,Crime/Horror/Mystery,6.1,Brandon Cronenberg,"31,699"
+Men,2022,Drama/Fantasy/Horror,6.1,Alex Garland,"51,808"
+We Have a Ghost,2023,Adventure/Comedy/Family,6.1,Christopher Landon,"26,782"
+Wrong Turn I,2003,Horror/Thriller,6.1,Rob Schmidt,125830
+Lifeforce,1985,Action/Horror/Mystery,6.1,Tobe Hooper,"27,500"
+The Neon Demon,2016,Horror/Thriller,6.1,Nicolas Winding Refn,"99,889"
+Brightburn,2019,Drama/Horror/Mystery,6.1,David Yarovesky,102749
+The Strangers,2008,Horror/Mystery/Thriller,6.1,Bryan Bertino,136286
+Day Shift,2022,Action/Comedy/Fantasy,6.1,J.J. Perry,"83,554"
+Insidious: Chapter 3,2015,Horror/Mystery/Thriller,6.1,Leigh Whannell,109420
+Friday the 13th Part 2,1981,Horror/Mystery/Thriller,6.1,Steve Miner,"72,452"
+Crawl I,2019,Action/Adventure/Horror,6.1,Alexandre Aja,"88,669"
+Hansel & Gretel: Witch Hunters,2013,Action/Fantasy/Horror,6.1,Tommy Wirkola,211488
+Blood Red Sky,2021,Action/Adventure/Drama,6.1,Peter Thorwarth,"51,766"
+Resident Evil: Apocalypse,2004,Action/Horror/Sci-Fi,6.1,Alexander Witt,204741
+Maniac,2012,Horror/Thriller,6.1,Franck Khalfoun,"39,045"
+The Oxford Murders,2008,Crime/Horror/Mystery,6.1,¨¢lex de la Iglesia,"29,932"
+The Belko Experiment,2016,Horror/Thriller,6.1,Greg McLean,"54,266"
+Dead Silence,2007,Horror/Mystery/Thriller,6.1,James Wan,"98,073"
+Mirrors I,2008,Horror/Mystery,6.1,Alexandre Aja,110546
+The Amityville Horror,1979,Horror,6.1,Stuart Rosenberg,"41,808"
+Critters,1986,Comedy/Horror/Sci-Fi,6.1,Stephen Herek,"37,388"
+Deep Rising,1998,Action/Adventure/Horror,6.1,Stephen Sommers,"39,064"
+Grave Encounters,2011,Horror/Mystery,6.1,Colin Minihan,"60,845"
+Vampires,1998,Action/Horror/Thriller,6.1,John Carpenter,"61,502"
+House,1985,Comedy/Fantasy/Horror,6.1,Steve Miner,"28,520"
+Cujo,1983,Horror/Thriller,6.1,Lewis Teague,"48,166"
+The Collection II,2012,Action/Adventure/Horror,6.1,Marcus Dunstan,"51,960"
+Red State,2011,Action/Crime/Horror,6.1,Kevin Smith,"65,843"
+Splinter I,2008,Crime/Horror/Sci-Fi,6.1,Toby Wilkins,"39,450"
+Bug,2006,Drama/Horror/Thriller,6.1,William Friedkin,"36,331"
+Solomon Kane,2009,Action/Adventure/Fantasy,6.1,M.J. Bassett,"74,932"
+Hobo with a Shotgun,2011,Action/Comedy/Horror,6.1,Jason Eisener,"47,548"
+Hellraiser,2022,Horror/Mystery/Thriller,6,David Bruckner,"42,407"
+Don't Breathe 2,2021,Action/Crime/Horror,6,Rodo Sayagues,"63,822"
+The Woman I,2011,Drama/Horror/Thriller,6,Lucky McKee,"25,113"
+Mr. Harrigan's Phone,2022,Drama/Horror/Mystery,6,John Lee Hancock,"34,530"
+The Lodge,2019,Drama/Horror/Mystery,6,Severin Fiala,"51,924"
+Hotel Transylvania: Transformania,2022,Animation/Adventure/Comedy,6,Derek Drymon,"34,432"
+6 Souls,2010,Horror/Thriller,6,M?ns M?rlind,"35,364"
+House of 1000 Corpses,2003,Horror,6,Rob Zombie,"89,420"
+Halloween,2007,Horror,6,Rob Zombie,125977
+The Taking of Deborah Logan,2014,Horror/Mystery/Thriller,6,Adam Robitel,"35,691"
+The Boy,2016,Horror/Mystery/Thriller,6,William Brent Bell,"97,224"
+Friday the 13th: The Final Chapter,1984,Horror/Thriller,6,Joseph Zito,"55,244"
+The Midnight Meat Train,2008,Horror/Mystery/Thriller,6,Ry?hei Kitamura,"67,602"
+The Purge: Election Year,2016,Action/Horror/Sci-Fi,6,James DeMonaco,105370
+Circle II,2015,Drama/Horror/Mystery,6,Aaron Hann,"61,323"
+Unfriended: Dark Web,2018,Horror/Mystery/Thriller,6,Stephen Susco,"35,242"
+Mimic,1997,Horror/Sci-Fi,6,Guillermo del Toro,"53,560"
+Friday the 13th Part VI: Jason Lives,1986,Horror/Thriller,6,Tom McLoughlin,"47,804"
+Captive State,2019,Action/Horror/Sci-Fi,6,Rupert Wyatt,"55,880"
+Saw VI,2009,Horror/Mystery/Thriller,6,Kevin Greutert,116425
+Creepshow 2,1987,Fantasy/Horror,6,Michael Gornick,"27,039"
+The Rite,2011,Drama/Horror/Mystery,6,Mikael H?fstr?m,100541
+Firestarter,1984,Action/Horror/Sci-Fi,6,Mark L. Lester,"35,640"
+V/H/S/2,2013,Horror/Sci-Fi,6,Simon Barrett,"41,967"
+Relic,2020,Drama/Horror/Mystery,6,Natalie Erika James,"28,230"
+Crimes of the Future,2022,Drama/Horror/Sci-Fi,5.9,David Cronenberg,"35,488"
+Orphan: First Kill,2022,Crime/Drama/Horror,5.9,William Brent Bell,"40,062"
+Hostel,2005,Horror,5.9,Eli Roth,185172
+Underwater,2020,Action/Horror/Sci-Fi,5.9,William Eubank,"88,253"
+Vivarium,2019,Horror/Mystery/Sci-Fi,5.9,Lorcan Finnegan,"64,794"
+Abraham Lincoln: Vampire Hunter,2012,Action/Fantasy/Horror,5.9,Timur Bekmambetov,158657
+Candyman,2021,Horror/Thriller,5.9,Nia DaCosta,"70,762"
+The Last House on the Left,1972,Crime/Horror/Thriller,5.9,Wes Craven,"38,780"
+The Amityville Horror,2005,Horror,5.9,Andrew Douglas,114596
+Annabelle Comes Home,2019,Horror/Mystery/Thriller,5.9,Gary Dauberman,"80,369"
+Final Destination 5,2011,Horror/Thriller,5.9,Steven Quale,120525
+The Grudge,2004,Horror/Mystery/Thriller,5.9,Takashi Shimizu,147865
+Antlers,2021,Drama/Horror/Mystery,5.9,Scott Cooper,"41,508"
+The Void I,2016,Horror/Mystery/Sci-Fi,5.9,Jeremy Gillespie,"39,049"
+King Kong,1976,Adventure/Horror,5.9,John Guillermin,"34,098"
+The Fourth Kind,2009,Horror/Mystery/Sci-Fi,5.9,Olatunde Osunsanmi,"79,762"
+The Brothers Grimm,2005,Action/Adventure/Comedy,5.9,Terry Gilliam,123953
+Hide and Seek,2005,Horror/Mystery,5.9,John Polson,"87,067"
+The Possession I,2012,Horror/Mystery/Thriller,5.9,Ole Bornedal,"61,689"
+The Ruins,2008,Adventure/Horror/Thriller,5.9,Carter Smith,"77,800"
+Cam,2018,Drama/Horror/Mystery,5.9,Daniel Goldhaber,"34,079"
+Saw IV,2007,Horror/Mystery/Thriller,5.9,Darren Lynn Bousman,155334
+Child's Play 2,1990,Horror/Thriller,5.9,John Lafia,"54,569"
+Victor Frankenstein,2015,Drama/Horror/Sci-Fi,5.9,Paul McGuigan,"58,423"
+The X Files: I Want to Believe,2008,Crime/Drama/Horror,5.9,Chris Carter,"92,694"
+The Tall Man,2012,Crime/Drama/Horror,5.9,Pascal Laugier,"42,238"
+Quarantine,2008,Horror/Sci-Fi/Thriller,5.9,John Erick Dowdle,"75,253"
+P2,2007,Crime/Horror/Thriller,5.9,Franck Khalfoun,"35,242"
+Pathology,2008,Crime/Horror/Thriller,5.9,Marc Sch?lermann,"32,857"
+The Prodigy,2019,Fantasy/Horror/Mystery,5.9,Nicholas McCarthy,"27,470"
+Old,2021,Drama/Horror/Mystery,5.8,M. Night Shyamalan,138969
+End of Days,1999,Action/Fantasy/Horror,5.8,Peter Hyams,113770
+Army of the Dead,2021,Action/Crime/Drama,5.8,Zack Snyder,178772
+Cannibal Holocaust,1980,Adventure/Horror,5.8,Ruggero Deodato,"58,322"
+I Know What You Did Last Summer,1997,Horror/Mystery,5.8,Jim Gillespie,152273
+Species,1995,Action/Horror/Sci-Fi,5.8,Roger Donaldson,"82,499"
+Carrie,2013,Drama/Horror/Thriller,5.8,Kimberly Peirce,144154
+Splice,2009,Horror/Sci-Fi,5.8,Vincenzo Natali,"99,872"
+Final Destination 3,2006,Horror/Thriller,5.8,James Wong,147716
+High Life,2018,Adventure/Drama/Horror,5.8,Claire Denis,"38,180"
+The Babysitter: Killer Queen,2020,Comedy/Horror,5.8,McG,"46,011"
+Hollow Man,2000,Action/Horror/Sci-Fi,5.8,Paul Verhoeven,134598
+Jaws 2,1978,Adventure/Horror/Thriller,5.8,Jeannot Szwarc,"80,981"
+Blade: Trinity,2004,Action/Horror/Sci-Fi,5.8,David S. Goyer,182834
+The Mortal Instruments: City of Bones,2013,Action/Adventure/Fantasy,5.8,Harald Zwart,136448
+Pride and Prejudice and Zombies,2016,Action/Comedy/Fantasy,5.8,Burr Steers,"58,473"
+Antebellum,2020,Drama/Horror/Mystery,5.8,Gerard Bush,"28,559"
+Lake Placid,1999,Action/Comedy/Horror,5.8,Steve Miner,"63,404"
+The Wolfman,2010,Drama/Fantasy/Horror,5.8,Joe Johnston,108821
+The Texas Chainsaw Massacre: The Beginning,2006,Horror/Thriller,5.8,Jonathan Liebesman,"75,052"
+The Addams Family,2019,Animation/Comedy/Family,5.8,Greg Tiernan,"42,739"
+The Divide,2011,Drama/Horror/Sci-Fi,5.8,Xavier Gens,"37,690"
+Eli I,2019,Drama/Horror/Mystery,5.8,Ciar¨¢n Foy,"38,505"
+V/H/S,2012,Horror,5.8,Matt Bettinelli-Olpin,"65,385"
+Morgan,2016,Action/Horror/Sci-Fi,5.8,Luke Scott,"44,898"
+Thinner,1996,Fantasy/Horror,5.8,Tom Holland,"32,352"
+The Haunting in Connecticut,2009,Drama/Horror/Mystery,5.8,Peter Cornwell,"63,528"
+Resident Evil: Afterlife,2010,Action/Horror/Sci-Fi,5.8,Paul W.S. Anderson,175349
+Gothika,2003,Horror/Mystery/Thriller,5.8,Mathieu Kassovitz,116092
+The Relic,1997,Horror/Mystery/Sci-Fi,5.8,Peter Hyams,"29,056"
+Dracula: Dead and Loving It,1995,Comedy/Fantasy/Horror,5.8,Mel Brooks,"43,600"
+Open Water,2003,Adventure/Drama/Horror,5.8,Chris Kentis,"55,121"
+Halloween H20: 20 Years Later,1998,Horror/Thriller,5.8,Steve Miner,"78,797"
+Halloween 4: The Return of Michael Myers,1988,Horror/Thriller,5.8,Dwight H. Little,"55,673"
+Saw V,2008,Horror/Thriller,5.8,David Hackl,128997
+Black Sheep,2006,Comedy/Horror/Sci-Fi,5.8,Jonathan King,"41,390"
+Paranormal Activity 3,2011,Horror/Mystery,5.8,Henry Joost,"97,454"
+Cry Wolf,2005,Drama/Horror/Mystery,5.8,Jeff Wadlow,"27,993"
+White Noise I,2022,Comedy/Drama/Horror,5.7,Noah Baumbach,"39,252"
+The Purge I,2013,Horror/Sci-Fi/Thriller,5.7,James DeMonaco,231096
+Escape Room: Tournament of Champions,2021,Action/Adventure/Horror,5.7,Adam Robitel,"52,337"
+Insidious: The Last Key,2018,Horror/Mystery/Thriller,5.7,Adam Robitel,"64,055"
+Buffy the Vampire Slayer,1992,Action/Comedy/Fantasy,5.7,Fran Rubel Kuzui,"47,048"
+Underworld: Blood Wars,2016,Action/Adventure/Fantasy,5.7,Anna Foerster,"78,499"
+The Rental,2020,Drama/Horror/Mystery,5.7,Dave Franco,"35,194"
+Jigsaw I,2017,Horror/Mystery/Thriller,5.7,Michael Spierig,"83,738"
+Freddy vs. Jason,2003,Action/Horror,5.7,Ronny Yu,123003
+Cooties,2014,Action/Comedy/Horror,5.7,Jonathan Milott,"27,279"
+I Spit on Your Grave 2,2013,Horror/Thriller,5.7,Steven R. Monroe,"31,209"
+Pet Sematary,2019,Horror/Mystery/Thriller,5.7,Kevin K?lsch,"94,828"
+Priest,2011,Action/Fantasy/Horror,5.7,Scott Stewart,121940
+Velvet Buzzsaw,2019,Horror/Mystery/Thriller,5.7,Dan Gilroy,"63,837"
+Would You Rather,2012,Horror/Thriller,5.7,David Guy Levy,"43,247"
+Rubber,2010,Comedy/Fantasy/Horror,5.7,Quentin Dupieux,"38,724"
+Child's Play,2019,Drama/Horror/Sci-Fi,5.7,Lars Klevberg,"54,170"
+Devil's Pass,2013,Horror/Mystery/Thriller,5.7,Renny Harlin,"26,283"
+Clown,2014,Horror/Thriller,5.7,Jon Watts,"25,286"
+Paranormal Activity 2,2010,Horror/Mystery,5.7,Tod Williams,107097
+The Descent: Part 2,2009,Adventure/Horror/Thriller,5.7,Jon Harris,"49,297"
+The Last Exorcism,2010,Horror/Mystery/Thriller,5.7,Daniel Stamm,"50,953"
+Honeymoon,2014,Drama/Fantasy/Horror,5.7,Leigh Janiak,"26,685"
+The Bay II,2012,Horror/Sci-Fi/Thriller,5.7,Barry Levinson,"28,565"
+Bhool Bhulaiyaa 2,2022,Comedy/Drama/Horror,5.7,Anees Bazmee,"32,061"
+Terrifier,2016,Horror/Thriller,5.6,Damien Leone,"42,712"
+The Meg,2018,Action/Horror/Sci-Fi,5.6,Jon Turteltaub,181197
+Beast I,2022,Action/Adventure/Drama,5.6,Baltasar Korm¨¢kur,"34,598"
+Ghost Ship,2002,Horror/Mystery/Thriller,5.6,Steve Beck,104944
+Scream 3,2000,Horror/Mystery,5.6,Wes Craven,155289
+Urban Legend,1998,Horror/Mystery/Thriller,5.6,Jamie Blanks,"68,975"
+Thir13en Ghosts,2001,Fantasy/Horror,5.6,Steve Beck,"90,122"
+Children of the Corn,1984,Horror/Thriller,5.6,Fritz Kiersch,"54,851"
+47 Meters Down,2017,Adventure/Drama/Horror,5.6,Johannes Roberts,"58,160"
+I Spit on Your Grave,1978,Horror/Thriller,5.6,Meir Zarchi,"29,806"
+Pacific Rim: Uprising,2018,Action/Adventure/Fantasy,5.6,Steven S. DeKnight,121533
+Alien vs. Predator,2004,Action/Adventure/Horror,5.6,Paul W.S. Anderson,205934
+Cabin Fever,2002,Horror,5.6,Eli Roth,"80,830"
+Friday the 13th Part III,1982,Horror/Thriller,5.6,Steve Miner,"56,597"
+Mom and Dad,2017,Comedy/Horror/Thriller,5.6,Brian Taylor,"25,496"
+Jeepers Creepers 2,2003,Horror,5.6,Victor Salva,"68,038"
+Ma I,2019,Horror/Mystery/Thriller,5.6,Tate Taylor,"55,805"
+Maggie I,2015,Drama/Horror/Sci-Fi,5.6,Henry Hobson,"45,541"
+Unfriended,2014,Horror/Mystery/Thriller,5.6,Levan Gabriadze,"78,487"
+Bride of Chucky,1998,Comedy/Horror/Thriller,5.6,Ronny Yu,"61,366"
+The Texas Chainsaw Massacre 2,1986,Comedy/Horror,5.6,Tobe Hooper,"35,333"
+House on Haunted Hill,1999,Horror/Mystery/Thriller,5.6,William Malone,"58,487"
+Village of the Damned,1995,Horror/Sci-Fi/Thriller,5.6,John Carpenter,"33,118"
+Regression I,2015,Adventure/Crime/Drama,5.6,Alejandro Amen¨¢bar,"41,510"
+A Nightmare on Elm Street 4: The Dream Master,1988,Horror,5.6,Renny Harlin,"58,602"
+Curse of Chucky,2013,Horror/Thriller,5.6,Don Mancini,"41,474"
+Poltergeist II: The Other Side,1986,Horror,5.6,Brian Gibson,"28,529"
+Creep I,2004,Horror/Mystery/Thriller,5.6,Christopher Smith,"30,858"
+Dark Water,2005,Drama/Horror/Mystery,5.6,Walter Salles,"64,235"
+Hatchet,2006,Comedy/Horror/Thriller,5.6,Adam Green,"32,231"
+Club Dread,2004,Comedy/Horror/Mystery,5.6,Jay Chandrasekhar,"30,873"
+The Reaping,2007,Horror/Thriller,5.6,Stephen Hopkins,"43,940"
+Piranha 3D,2010,Comedy/Horror,5.5,Alexandre Aja,"94,107"
+Wrong Turn,2021,Horror/Thriller,5.5,Mike P. Nelson,"33,584"
+Friday the 13th,2009,Horror/Mystery/Thriller,5.5,Marcus Nispel,111943
+Willy's Wonderland,2021,Action/Comedy/Horror,5.5,Kevin Lewis,"33,195"
+Hostel: Part II,2007,Horror,5.5,Eli Roth,"92,969"
+The Cloverfield Paradox,2018,Action/Adventure/Horror,5.5,Julius Onah,109111
+Halloween Kills,2021,Horror/Thriller,5.5,David Gordon Green,"91,008"
+House at the End of the Street,2012,Drama/Horror/Thriller,5.5,Mark Tonderai,"78,952"
+The Dead Don't Die,2019,Comedy/Fantasy/Horror,5.5,Jim Jarmusch,"82,134"
+Eight Legged Freaks,2002,Action/Adventure/Comedy,5.5,Ellory Elkayem,"58,839"
+Resident Evil: The Final Chapter,2016,Action/Horror/Sci-Fi,5.5,Paul W.S. Anderson,"97,554"
+Gretel & Hansel,2020,Fantasy/Horror/Mystery,5.5,Oz Perkins,"32,438"
+Saw 3D,2010,Horror/Mystery,5.5,Kevin Greutert,102181
+Peninsula,2020,Action/Horror/Thriller,5.5,Sang-ho Yeon,"35,176"
+Dreamcatcher,2003,Drama/Horror/Sci-Fi,5.5,Lawrence Kasdan,"94,534"
+The Last Days on Mars,2013,Adventure/Horror/Sci-Fi,5.5,Ruairi Robinson,"38,026"
+The Ward,2010,Horror/Mystery/Thriller,5.5,John Carpenter,"43,657"
+The Omen,2006,Drama/Fantasy/Horror,5.5,John Moore,"60,750"
+All the Boys Love Mandy Lane,2006,Horror/Mystery/Thriller,5.5,Jonathan Levine,"34,017"
+Hellraiser III: Hell on Earth,1992,Horror,5.5,Anthony Hickox,"33,318"
+The Innkeepers,2011,Drama/Horror/Mystery,5.5,Ti West,"36,301"
+Don't Be Afraid of the Dark,2010,Fantasy/Horror/Thriller,5.5,Troy Nixey,"49,772"
+Cube2: Hypercube,2002,Horror/Mystery/Sci-Fi,5.5,Andrzej Sekula,"68,747"
+Diary of the Dead,2007,Fantasy/Horror/Sci-Fi,5.5,George A. Romero,"48,380"
+White Noise I,2005,Drama/Horror/Mystery,5.5,Geoffrey Sax,"49,931"
+Jennifer's Body,2009,Comedy/Horror,5.4,Karyn Kusama,141859
+The Mummy,2017,Action/Adventure/Fantasy,5.4,Alex Kurtzman,196693
+Teeth I,2007,Comedy/Fantasy/Horror,5.4,Mitchell Lichtenstein,"44,984"
+The Lawnmower Man,1992,Horror/Sci-Fi,5.4,Brett Leonard,"37,519"
+The Forever Purge,2021,Action/Crime/Horror,5.4,Everardo Gout,"38,456"
+Annabelle I,2014,Horror/Mystery/Thriller,5.4,John R. Leonetti,166025
+The Witches,2020,Adventure/Comedy/Family,5.4,Robert Zemeckis,"43,623"
+House of Wax,2005,Horror/Thriller,5.4,Jaume Collet-Serra,129174
+Countdown III,2019,Horror/Thriller,5.4,Justin Dec,"41,867"
+In the Tall Grass,2019,Horror/Mystery/Sci-Fi,5.4,Vincenzo Natali,"60,139"
+Maximum Overdrive,1986,Action/Comedy/Horror,5.4,Stephen King,"34,054"
+A Nightmare on Elm Street 2: Freddy's Revenge,1985,Horror,5.4,Jack Sholder,"73,312"
+Vampire Academy,2014,Action/Comedy/Drama,5.4,Mark Waters,"55,923"
+Turistas,2006,Horror/Mystery/Thriller,5.4,John Stockwell,"39,687"
+The Ring Two,2005,Horror/Mystery,5.4,Hideo Nakata,"98,602"
+Red Riding Hood,2011,Fantasy/Horror/Mystery,5.4,Catherine Hardwicke,113995
+Winchester,2018,Drama/Fantasy/Horror,5.4,Michael Spierig,"35,434"
+My Bloody Valentine,2009,Horror/Mystery/Thriller,5.4,Patrick Lussier,"58,571"
+Jessabelle,2014,Drama/Horror/Mystery,5.4,Kevin Greutert,"25,037"
+The Eye,2008,Horror/Mystery,5.4,David Moreau,"55,021"
+Tusk I,2014,Comedy/Horror,5.3,Kevin Smith,"58,591"
+The Invitation II,2022,Horror/Thriller,5.3,Jessica M. Thompson,"26,160"
+The Nun,2018,Horror/Mystery/Thriller,5.3,Corin Hardy,148299
+The Green Inferno,2013,Adventure/Horror,5.3,Eli Roth,"46,716"
+The Predator,2018,Action/Adventure/Horror,5.3,Shane Black,138182
+Scary Movie 2,2001,Comedy/Horror,5.3,Keenen Ivory Wayans,167717
+Legion,2010,Action/Fantasy/Horror,5.3,Scott Stewart,108043
+The New Mutants,2020,Action/Horror/Mystery,5.3,Josh Boone,"84,381"
+Things Heard & Seen,2021,Drama/Horror/Mystery,5.3,Shari Springer Berman,"33,777"
+Sinister 2,2015,Horror/Mystery/Thriller,5.3,Ciar¨¢n Foy,"57,723"
+The Silence I,2019,Drama/Horror/Sci-Fi,5.3,John R. Leonetti,"48,055"
+Resident Evil: Retribution,2012,Action/Horror/Sci-Fi,5.3,Paul W.S. Anderson,146296
+The Stepford Wives,2004,Comedy/Horror/Sci-Fi,5.3,Frank Oz,"68,040"
+The Messengers,2007,Drama/Horror/Mystery,5.3,Danny Pang,"40,604"
+The Resident,2011,Crime/Drama/Horror,5.3,Antti J. Jokinen,"28,945"
+The Colony I,2013,Action/Horror/Sci-Fi,5.3,Jeff Renfroe,"46,277"
+Doom,2005,Action/Horror/Sci-Fi,5.2,Andrzej Bartkowiak,116192
+Morbius,2022,Action/Adventure/Horror,5.2,Daniel Espinosa,137749
+The Covenant,2006,Action/Adventure/Fantasy,5.2,Renny Harlin,"50,834"
+Resident Evil: Welcome to Raccoon City,2021,Action/Horror/Sci-Fi,5.2,Johannes Roberts,"58,422"
+Hellboy,2019,Action/Adventure/Fantasy,5.2,Neil Marshall,"94,121"
+Spiral,2021,Horror/Mystery/Thriller,5.2,Darren Lynn Bousman,"58,812"
+Flatliners,2017,Drama/Horror/Mystery,5.2,Niels Arden Oplev,"49,170"
+The Mummy: Tomb of the Dragon Emperor,2008,Action/Adventure/Fantasy,5.2,Rob Cohen,166078
+The Bad Batch,2016,Action/Horror/Mystery,5.2,Ana Lily Amirpour,"33,671"
+Spawn,1997,Action/Drama/Horror,5.2,Mark A.Z. Dipp¨¦,"70,341"
+Truth or Dare I,2018,Horror/Thriller,5.2,Jeff Wadlow,"59,199"
+The Curse of La Llorona,2019,Horror/Mystery/Thriller,5.2,Michael Chaves,"53,361"
+Queen of the Damned,2002,Drama/Fantasy/Horror,5.2,Michael Rymer,"57,951"
+Scooby-Doo 2: Monsters Unleashed,2004,Adventure/Comedy/Family,5.2,Raja Gosnell,"61,313"
+Hubie Halloween,2020,Comedy/Horror/Mystery,5.2,Steven Brill,"53,916"
+A Nightmare on Elm Street,2010,Crime/Drama/Horror,5.2,Samuel Bayer,103828
+The First Purge,2018,Action/Horror/Sci-Fi,5.2,Gerard McMurray,"66,568"
+The Strangers: Prey at Night,2018,Horror,5.2,Johannes Roberts,"32,686"
+Friday the 13th Part VII: The New Blood,1988,Horror/Thriller,5.2,John Carl Buechler,"39,646"
+Shutter I,2008,Horror/Mystery/Thriller,5.2,Masayuki Ochiai,"36,208"
+Cult of Chucky,2017,Horror/Thriller,5.2,Don Mancini,"27,436"
+Apollo 18,2011,Horror/Mystery/Sci-Fi,5.2,Gonzalo L¨®pez-Gallego,"56,777"
+The Lazarus Effect,2015,Horror/Mystery/Sci-Fi,5.2,David Gelb,"44,970"
+The Lords of Salem,2012,Horror/Thriller,5.2,Rob Zombie,"31,229"
+Friend Request,2016,Horror/Mystery/Thriller,5.2,Simon Verhoeven,"27,158"
+The Unholy,2021,Drama/Horror/Mystery,5.1,Evan Spiliotopoulos,"25,389"
+The Haunted Mansion,2003,Comedy/Family/Fantasy,5.1,Rob Minkoff,"51,618"
+The Final Destination,2009,Horror/Thriller,5.1,David R. Ellis,110457
+Sorority Row,2009,Horror/Mystery,5.1,Stewart Hendler,"31,640"
+The Hills Have Eyes 2,2007,Horror/Thriller,5.1,Martin Weisz,"65,955"
+When a Stranger Calls,2006,Horror/Thriller,5.1,Simon West,"47,247"
+The Cave,2005,Adventure/Horror/Sci-Fi,5.1,Bruce Hunt,"40,180"
+Halloween III: Season of the Witch,1982,Horror/Mystery/Sci-Fi,5.1,Tommy Lee Wallace,"57,269"
+Exorcist: The Beginning,2004,Horror/Mystery/Thriller,5.1,Renny Harlin,"37,959"
+Child's Play 3,1991,Horror/Thriller,5.1,Jack Bender,"43,765"
+An American Werewolf in Paris,1997,Comedy/Fantasy/Horror,5.1,Anthony Waller,"26,134"
+Grave Encounters 2,2012,Horror/Mystery,5.1,John Poliquin,"26,222"
+A Serbian Film,2010,Horror/Mystery/Thriller,5,Srdjan Spasojevic,"67,662"
+Halloween Ends,2022,Horror/Thriller,5,David Gordon Green,"62,008"
+Shadow in the Cloud,2020,Action/Horror/War,5,Roseanne Liang,"28,700"
+47 Meters Down: Uncaged,2019,Adventure/Drama/Horror,5,Johannes Roberts,"28,859"
+Leatherface,2017,Crime/Horror/Thriller,5,Alexandre Bustillo,"25,704"
+The Haunting,1999,Fantasy/Horror/Mystery,5,Jan de Bont,"78,402"
+A Haunted House,2013,Comedy/Fantasy/Horror,5,Michael Tiddes,"48,272"
+How It Ends,2018,Action/Drama/Horror,5,David M. Rosenthal,"55,729"
+Blair Witch,2016,Horror/Mystery/Thriller,5,Adam Wingard,"47,890"
+Virus,1999,Action/Horror/Sci-Fi,5,John Bruno,"29,017"
+Stay Alive,2006,Fantasy/Horror/Mystery,5,William Brent Bell,"33,235"
+A Nightmare on Elm Street: The Dream Child,1989,Fantasy/Horror,5,Stephen Hopkins,"48,222"
+See No Evil,2006,Action/Horror/Thriller,5,Gregory Dark,"28,075"
+Chernobyl Diaries,2012,Horror/Mystery/Thriller,5,Bradley Parker,"67,339"
+Cursed,2005,Comedy/Horror,5,Wes Craven,"34,024"
+Paranormal Activity: The Marked Ones,2014,Horror/Mystery,5,Christopher Landon,"44,216"
+The Grudge 2,2006,Horror/Thriller,5,Takashi Shimizu,"50,475"
+[REC] 3: Genesis,2012,Horror/Thriller,5,Paco Plaza,"36,765"
+An American Haunting,2005,Drama/Horror/Mystery,5,Courtney Solomon,"26,374"
+Knock Knock I,2015,Crime/Drama/Horror,4.9,Eli Roth,"99,384"
+The Darkest Hour,2011,Action/Adventure/Horror,4.9,Chris Gorak,"62,428"
+Fantasy Island,2020,Fantasy/Horror/Mystery,4.9,Jeff Wadlow,"55,082"
+Dracula 2000,2000,Action/Fantasy/Horror,4.9,Patrick Lussier,"35,130"
+Silent Hill: Revelation,2012,Horror/Mystery/Thriller,4.9,M.J. Bassett,"65,270"
+Seed of Chucky,2004,Comedy/Horror/Thriller,4.9,Don Mancini,"47,581"
+Ghosts of Mars,2001,Action/Horror/Sci-Fi,4.9,John Carpenter,"56,213"
+Poltergeist,2015,Horror/Thriller,4.9,Gil Kenan,"59,621"
+Darkness Falls,2003,Fantasy/Horror/Mystery,4.9,Jonathan Liebesman,"32,613"
+Valentine,2001,Horror/Mystery/Thriller,4.9,Jamie Blanks,"29,306"
+Halloween 5: The Revenge of Michael Myers,1989,Horror/Thriller,4.9,Dominique Othenin-Girard,"44,618"
+Vanishing on 7th Street,2010,Horror/Mystery/Thriller,4.9,Brad Anderson,"26,800"
+Anaconda,1997,Action/Adventure/Horror,4.8,Luis Llosa,108000
+Texas Chainsaw,2013,Horror/Thriller,4.8,John Luessenhop,"53,682"
+The Forest I,2016,Horror/Mystery/Thriller,4.8,Jason Zada,"44,543"
+Leprechaun,1993,Comedy/Fantasy/Horror,4.8,Mark Jones,"28,663"
+The Roommate I,2011,Drama/Horror/Thriller,4.8,Christian E. Christiansen,"40,236"
+Halloween II,2009,Horror,4.8,Rob Zombie,"57,387"
+Meet the Blacks,2016,Comedy/Horror,4.8,Deon Taylor,"37,146"
+The Woman in Black 2: Angel of Death,2014,Drama/Horror/Thriller,4.8,Tom Harper,"28,992"
+Godsend,2004,Action/Drama/Fantasy,4.8,Frank M. Calo,"26,088"
+Texas Chainsaw Massacre,2022,Crime/Horror/Thriller,4.7,David Blue Garcia,"56,803"
+The Unborn,2009,Horror/Mystery/Thriller,4.7,David S. Goyer,"52,574"
+Friday the 13th: A New Beginning,1985,Horror/Mystery/Thriller,4.7,Danny Steinmann,"41,029"
+I Still Know What You Did Last Summer,1998,Horror/Mystery/Thriller,4.7,Danny Cannon,"76,322"
+Anacondas: The Hunt for the Blood Orchid,2004,Action/Adventure/Horror,4.7,Dwight H. Little,"32,734"
+Halloween: The Curse of Michael Myers,1995,Horror/Thriller,4.7,Joe Chappelle,"39,712"
+Freddy's Dead: The Final Nightmare,1991,Fantasy/Horror,4.7,Rachel Talalay,"48,694"
+Pulse I,2006,Horror/Sci-Fi/Thriller,4.7,Jim Sonzero,"30,021"
+Death Note I,2017,Crime/Drama/Fantasy,4.6,Adam Wingard,"87,627"
+Aliens vs. Predator: Requiem,2007,Action/Adventure/Horror,4.6,Colin Strause,129458
+Psycho,1998,Horror/Mystery/Thriller,4.6,Gus Van Sant,"49,550"
+Paranormal Activity 4,2012,Horror/Mystery,4.6,Henry Joost,"68,431"
+The Pyramid,2014,Horror/Mystery/Thriller,4.6,Gr¨¦gory Levasseur,"25,483"
+Black Christmas,2006,Horror,4.6,Glen Morgan,"28,952"
+Paranormal Activity: The Ghost Dimension,2015,Horror/Mystery,4.6,Gregory Plotkin,"29,413"
+The Island of Dr. Moreau,1996,Horror/Sci-Fi/Thriller,4.5,John Frankenheimer,"34,527"
+Ouija II,2014,Horror/Mystery/Thriller,4.5,Stiles White,"54,888"
+Rings,2017,Drama/Horror/Mystery,4.5,F. Javier Guti¨¦rrez,"41,974"
+Species II,1998,Action/Horror/Sci-Fi,4.5,Peter Medak,"30,268"
+Friday the 13th Part VIII: Jason Takes Manhattan,1989,Adventure/Horror/Thriller,4.5,Rob Hedden,"40,404"
+The Human Centipede (First Sequence),2009,Horror,4.4,Tom Six,"82,947"
+Jason X,2001,Action/Horror/Sci-Fi,4.4,James Isaac,"58,799"
+Cell I,2016,Action/Adventure/Horror,4.4,Tod Williams,"29,193"
+The Grudge I,2020,Fantasy/Horror,4.4,Nicolas Pesce,"27,873"
+The Bye Bye Man,2017,Drama/Fantasy/Horror,4.3,Stacy Title,"25,127"
+Boogeyman,2005,Drama/Horror/Mystery,4.2,Stephen Kay,"31,868"
+The Devil Inside,2012,Horror,4.2,William Brent Bell,"36,661"
+Jason Goes to Hell: The Final Friday,1993,Fantasy/Horror/Thriller,4.1,Adam Marcus,"34,519"
+Shark Night,2011,Action/Adventure/Horror,4,David R. Ellis,"26,648"
+One Missed Call,2008,Horror/Mystery,4,Eric Valette,"33,249"
+Book of Shadows: Blair Witch 2,2000,Adventure/Fantasy/Horror,4,Joe Berlinger,"39,110"
+Prom Night I,2008,Horror,3.9,Nelson McCormick,"36,982"
+Halloween: Resurrection,2002,Horror/Thriller,3.9,Rick Rosenthal,"46,928"
+Plan 9 from Outer Space,1957,Horror/Sci-Fi,3.9,Edward D. Wood Jr.,"39,496"
+Piranha 3DD,2012,Comedy/Horror/Sci-Fi,3.8,John Gulager,"44,248"
+The Human Centipede 2 (Full Sequence),2011,Horror,3.8,Tom Six,"40,950"
+The Wicker Man,2006,Horror/Mystery/Thriller,3.8,Neil LaBute,"69,700"
+Exorcist II: The Heretic,1977,Horror,3.8,John Boorman,"25,949"
+Jaws 3-D,1983,Adventure/Horror/Thriller,3.7,Joe Alves,"46,082"
+The Fog,2005,Horror/Mystery,3.7,Rupert Wainwright,"38,246"
+I Know Who Killed Me,2007,Horror/Mystery/Thriller,3.6,Chris Sivertson,"30,446"
+Scary Movie V,2013,Comedy/Horror,3.5,Malcolm D. Lee,"74,534"
+Vampires Suck,2010,Comedy/Horror,3.4,Jason Friedberg,"50,206"
+The Open House,2018,Horror/Thriller,3.3,Matt Angel,"35,819"
+Slender Man I,2018,Horror/Mystery/Thriller,3.2,Sylvain White,"36,238"
+Jaws: The Revenge,1987,Adventure/Horror/Thriller,3,Joseph Sargent,"47,708"
+BloodRayne,2005,Action/Fantasy/Horror,3,Uwe Boll,"36,527"
+Troll 2,1990,Comedy/Fantasy/Horror,2.9,Claudio Fragasso,"33,908"
+Laxmii,2020,Action/Comedy/Horror,2.5,Raghava Lawrence,"58,053"
+Alone in the Dark,2005,Action/Horror/Sci-Fi,2.4,Uwe Boll,"46,403"
+House of the Dead,2003,Action/Adventure/Horror,2.1,Uwe Boll,"38,041"
+Manos: The Hands of Fate,1966,Horror,1.6,Harold P. Warren,"37,060"
